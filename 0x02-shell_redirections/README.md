@@ -5,3 +5,4 @@ Shell redirection I/O
 3. What about 2?: Script displaying more contents
 4. Last lines of a file: Displaying the last 10 lines of /etc/passwd
 5. I'd prefer the first ones actually: Displaying the first 10 lines of /etc/passwd
+6. Line #2: Writing a script that displays the third line of the file iacta.
