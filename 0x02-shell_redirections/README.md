@@ -1,1 +1,3 @@
-This is a read me for shell redirection project
+Shell redirection I/O
+0. Hello world- > Write a script that prints “Hello, World”, followed by a new line to the standard output.
+
