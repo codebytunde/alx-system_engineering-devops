@@ -6,3 +6,4 @@
 5. Creating a script that lists environment variables.
 6. Creating a script that lists all local variables and environment variables, and functions.
 7. Creating a script that creates a new local variable.
+8. Creating script that creates a new global variable.
