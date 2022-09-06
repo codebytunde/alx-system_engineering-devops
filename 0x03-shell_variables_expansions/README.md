@@ -3,3 +3,4 @@
 2. Creating a script that print "hello User"
 3. Adding /action to the PATH
 4. Creating a script that counts the number of directories in the PATH.
+5. Creating a script that lists environment variables.
